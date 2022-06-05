@@ -1,0 +1,4 @@
+infi.devicemanager==0.2.22
+keyboard==0.13.5
+pynput==1.7.5
+logging==0.4.9.6
