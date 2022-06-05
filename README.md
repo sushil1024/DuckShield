@@ -21,3 +21,8 @@ logging==0.4.9.6
 
 # Future Scope
 This project has future scope of adding many more handful features.
+
+# Note
+1. Press and hold the combination of the keys to unblock.
+2. In case the keyboard is blocked, you can unblock it by pressing and holding the combination of keys 'esc + e + m'.
+3. The hot keys to unblock the keystrokes are by default set as 'esc + e + m'.
