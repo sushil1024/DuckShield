@@ -1,4 +1,4 @@
-# Anti-Rubber-Ducky
+# DuckShield
 Prevents HID attack/Keystroke attack performed by physical thumb drives known as Rubber Ducky.
 
 # How it works
