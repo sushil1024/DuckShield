@@ -13,13 +13,5 @@ Prevents HID attack/keystroke attack performed by a pre-programmed physical thum
 3. Change the email id of the Administrator in file 'detect_keys.py'. Replace the 'admin@axample.com' with the Administrator's email ID.
 4. You can change the hot keys to unblock the keyboard in the source code.
 
-# Requirements
-infi.devicemanager==0.2.22
-keyboard==0.13.5
-pynput==1.7.5
-logging==0.4.9.6
-
 # Note
-1. Press and hold the combination of the keys to unblock.
-2. In case the keyboard is blocked, you can unblock it by pressing and holding the combination of keys 'esc + e + m'.
-3. The hot keys to unblock the keystrokes are by default set as 'esc + e + m'.
+1. Press and hold the combination of the keys to unblock the keyboard.
