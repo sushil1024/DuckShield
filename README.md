@@ -1,5 +1,5 @@
 # DuckShield
-Prevents HID attack/Keystroke attack performed by physical thumb drives known as Rubber Ducky.
+Prevents HID attack/keystroke attack performed by a pre-programmed physical thumb drive ie. Rubber Ducky.
 
 # How it works
 1. The software detects and blocks the Rubber Ducky before any severe damage to the system.
