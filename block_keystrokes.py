@@ -1,8 +1,8 @@
 # blocks keyboard until 'esc + e' combination is pressed
 import sys
-
 import keyboard
 import time
+from detect_keys import starting
 
 
 def block():
@@ -11,7 +11,6 @@ def block():
 
     while True:
         time.sleep(True)
-        from detect_keys import starting
         starting()
         # if keyboard.is_pressed('Esc') and keyboard.is_pressed('e') and keyboard.is_pressed('m'):
         #     del sys.modules['detect_keys']
